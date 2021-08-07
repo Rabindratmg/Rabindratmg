@@ -1,6 +1,5 @@
 ### Hi  👋
 - 🌱 I’m currently learning Python (Django).
-- 
  - 🤔 I’m looking for help with  anyone who knows better.
 <!--
 **Rabindratmg/Rabindratmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,11 @@
-## Hi  I am [Rabindra Tamang](https://www.rabindratamang.com.np)
+## Hi  I am [Rabindra Tamang](https://rabindratamang.com.np/)
 #### -I’m currently learning Python (Django).
 #### -I’m looking for help with  anyone who knows better.
 
 # My Projects
-  ### - [My protfolio website](https://www.rabindratamang.com.np)
-  ### - [G's Cafe](merocafe.ga)
-  ### - [django blog app](rabindra123.pythonanywhere.com)
+  ### - [My protfolio website](https://rabindratamang.com.np/)
+  ### - [G's Cafe](https://merocafe.ga/)
+  ### - [django blog app](https://rabindra123.pythonanywhere.com/)
 
 <!--
 **Rabindratmg/Rabindratmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

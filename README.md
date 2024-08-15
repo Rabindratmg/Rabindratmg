@@ -1,7 +1,7 @@
 ## Hi  I am [Rabindra Tamang](https://rabindratamang.com.np/)
-#### -I’m currently learning Python (Django).
+#### -DevOps Engineer.
 
-# My Projects
+# My Projects 
   ### - [My protfolio website](https://rabindratamang.com.np/)
   ### - [G's Cafe](https://merocafe.ga/)
   ### - [django blog app](https://rabindra123.pythonanywhere.com/)
@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Kubernetes.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
